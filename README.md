@@ -1,1 +1,1 @@
-# Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI-Nanodegree-Projects
+# Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI
