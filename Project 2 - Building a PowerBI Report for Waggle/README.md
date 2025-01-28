@@ -13,7 +13,8 @@ This page delves into key insights related to the pets using the devices.
 ## Tab 3: Family Insights
 This page focuses on the demographics and characteristics of the families that own the pets.
 
-Throughout the report, The report adheres to Waggle's branding guidelines, incorporating the company's color palette, logo, and other approved branding elements.
+## Throughout the report:
+The report adheres to Waggle's branding guidelines, incorporating the company's color palette, logo, and other approved branding elements.
 It also included **Interactive Features**, like **Slicers**, **Bookmarks**, and **Navigation Buttons**.
 
 This structured approach ensures that the report effectively communicates key findings to stakeholders, supporting informed decision-making
