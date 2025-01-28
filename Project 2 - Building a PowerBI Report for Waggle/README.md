@@ -17,4 +17,4 @@ This page focuses on the demographics and characteristics of the families that o
 The report adheres to Waggle's branding guidelines, incorporating the company's color palette, logo, and other approved branding elements.
 It also included **Interactive Features**, like **Slicers**, **Bookmarks**, and **Navigation Buttons**.
 
-This structured approach ensures that the report effectively communicates key findings to stakeholders, supporting informed decision-making
+This structured approach ensures that the report effectively communicates key findings to stakeholders, supporting informed decision-making.
